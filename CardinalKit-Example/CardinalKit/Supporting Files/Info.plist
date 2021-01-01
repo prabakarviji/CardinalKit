@@ -24,10 +24,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>edu.stanford.cs342.firebase</string>
+			<string>com.spritle.cardinalkit-app.firebase</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>edu.stanford.cardinalkit</string>
+				<string>com.spritle.cardinalkit-app</string>
 			</array>
 		</dict>
 	</array>
@@ -35,8 +35,7 @@
 	<string>2</string>
 	<key>FirebaseDynamicLinksCustomDomains</key>
 	<array>
-		<string>https://cs342.page.link</string>
-		<string>https://cs342.page.link/Rdse</string>
+		<string>https://spritlecardinal.page.link</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
